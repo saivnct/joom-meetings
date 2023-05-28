@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "844929537303",
+    "project_id": "joom-meetings",
+    "storage_bucket": "joom-meetings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844929537303:android:18c7da8a697ce3783c1352",
+        "android_client_info": {
+          "package_name": "studio.giangbb.joom_meetings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844929537303-010fpc47f6nhv75mm8sfk9q0hckmqgfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.giangbb.joom_meetings",
+            "certificate_hash": "502fb4123c3c9b8911eb372b1bcf13e86e151be4"
+          }
+        },
+        {
+          "client_id": "844929537303-1a7p1g58mjur8u67v8g9gd6rlq2ts8k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.giangbb.joom_meetings",
+            "certificate_hash": "aa0dabbded5dd5da8ce8a73eee3d7952b6344c3f"
+          }
+        },
+        {
+          "client_id": "844929537303-tughtf7vg75vtg82nlfroc9ojogigr5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZWbj7PghM0tAPClYCSC66cuqngculs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844929537303-r2ivq79rj5iph92hvnai4q52lmdtci15.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844929537303-gdruv26t1bu77ilhnh8sana5gg0ujghj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "studio.giangbb.joomMeetings"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
