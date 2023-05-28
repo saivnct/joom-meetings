@@ -2,7 +2,7 @@
 
 # Joom Meetings
 
-A meeting app for Android/iOS
+All-in-one online meetings application. Enjoy features like chat, voice calls, video calls, screen sharing, and polls for enhanced collaboration and communication.
 
 <div class="image-container" align="center">
   <img src="readme/img1.jpg" alt="Image 1"  height="300">
