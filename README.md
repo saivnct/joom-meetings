@@ -5,12 +5,14 @@
 All-in-one online meetings application. Enjoy features like chat, voice calls, video calls, screen sharing, and polls for enhanced collaboration and communication.
 
 <div class="image-container" align="center">
-  <img src="readme/img1.jpg" alt="Image 1"  height="300">
-  <img src="readme/img2.jpg" alt="Image 2"  height="300">
-  <img src="readme/img3.jpg" alt="Image 3"  height="300">
-  <img src="readme/img4.jpg" alt="Image 4"  height="300">
+  <img src="readme/img1.png" alt="Image 1"  height="300">
+  <img src="readme/img2.png" alt="Image 2"  height="300">
+  <img src="readme/img3.png" alt="Image 3"  height="300">
+  <img src="readme/img4.png" alt="Image 4"  height="300">
   <img src="readme/img5.jpg" alt="Image 5"  height="300">
   <img src="readme/img6.jpg" alt="Image 6"  height="300">
+  <img src="readme/img7.jpg" alt="Image 7"  height="300">
+  <img src="readme/img8.jpg" alt="Image 8"  height="300">
 </div>
 
 #
